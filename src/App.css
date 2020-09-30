@@ -25,3 +25,7 @@ html {
 .selected {
   background-color: red;
 }
+
+.List2 .selected {
+  margin: 10px;
+}
