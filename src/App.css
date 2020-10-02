@@ -23,6 +23,10 @@ html {
 }
 
 .selected {
+  background-color: pink;
+}
+
+.active.selected {
   background-color: red;
 }
 
